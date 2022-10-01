@@ -1,5 +1,5 @@
 # College-Database_Systems
-A Collection of all Assignment and Project
+A Collection of all Quiz and Project
 
 
 Language : SQL
